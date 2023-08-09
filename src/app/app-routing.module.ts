@@ -6,6 +6,7 @@ import { RegisterComponent } from './pages/register/register.component';
 import { SubscriptionComponent } from './pages/subscription/subscription.component';
 import { PromoVideosComponent } from './pages/promo-videos/promo-videos.component';
 import { PromoInfoComponent } from './pages/promo-info/promo-info.component';
+import { DealsDiscountComponent } from './pages/deals-discount/deals-discount.component';
 
 export const routes: Routes = [
   { path: '', redirectTo: 'deals', pathMatch: 'full' },
@@ -15,6 +16,7 @@ export const routes: Routes = [
   { path: 'subscription', component: SubscriptionComponent },
   { path: 'promo-videos', component: PromoVideosComponent },
   { path: 'promo-info', component: PromoInfoComponent },
+  {path:'deals-discount', component: DealsDiscountComponent},
   { path: '**', component: DealsComponent },
 ];
 
