@@ -4,11 +4,11 @@
     <div class="flex-1 z-10">
         <div class="max-w-screen-sm mx-auto mb-8">
             <span class="flex flex-col mt-24">
-                <h3 class="text-7xl text-white font-semibold italic mb-8">99 Deals</h3>
-                <span class="text-2xl text-white -mt-1">on <b class="text-red-700">Restaurants</b></span>
+                <h3 class="text-7xl text-white font-semibold italic mb-4 a99deals">99 Deals</h3>
+                <span class="text-2xl text-white">on <b class="text-red-700">Restaurants</b></span>
             </span>
         </div>
-        <p class="px-24 text-white">
+        <p class="px-24 text-white font-elmirta text-2xl">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis mollitia
             provident cum iusto, animi laborum illum magni delectus laudantium rerum
             nostrum tenetur fugiat atque recusandae natus quasi maxime cumque
@@ -49,6 +49,7 @@
                 <p-button label="Continue" styleClass="p-button-sm p-button-warning" *ngIf="!otpSent"
                     (click)="otpSent = true"></p-button>
                 <p-button label="Signup" styleClass="p-button-sm p-button-warning" *ngIf="otpSent" type="submit"></p-button>
+                <a class="text-blue-500 underline underline-offset-8" [routerLink]="['/login']">click here to Login </a>
             </div>
         </form>
     </div>
