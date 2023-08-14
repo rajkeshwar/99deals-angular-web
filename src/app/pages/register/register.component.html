@@ -1,34 +1,55 @@
-
-<div class="md:container md:mx-auto min-h-screen flex justify-center items-center">
-    <form class="-mt-48" [formGroup]="formGroup" (ngSubmit)="onSubmit()">
-        <h1 class="text-2xl mb-4 font-bold">Looks like you're new here!</h1>
-        <h3 class="text-xl mb-4 font-semibold">Sign up with your mobile number to get started</h3>
-    
-        <div class="flex items-center justify-between mb-4">
-            <label class="mr-4 font-semibold">Enter Email /Mobile Number</label>
-            <input type="text" pInputText formControlName="mobile" />
+<div class="flex min-h-screen relative">
+    <div class="polygon bg-gradient-to-r from-purple-500 to-pink-500 min-h-screen w-full flex-1 absolute left-0 top-0">
+    </div>
+    <div class="flex-1 z-10">
+        <div class="max-w-screen-sm mx-auto mb-8">
+            <span class="flex flex-col mt-24">
+                <h3 class="text-7xl text-white font-semibold italic mb-8">99 Deals</h3>
+                <span class="text-2xl text-white -mt-1">on <b class="text-red-700">Restaurants</b></span>
+            </span>
         </div>
-    
-        <div class="" *ngIf="otpSent">
-            <div class="flex justify-between mb-4">
-                <label class="font-semibold">OTP sent to Mobile</label>
-                <a (click)="resendOtp()" class="text-blue-500">Resend?</a>
+        <p class="px-24 text-white">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis mollitia
+            provident cum iusto, animi laborum illum magni delectus laudantium rerum
+            nostrum tenetur fugiat atque recusandae natus quasi maxime cumque
+            reprehenderit.
+        </p>
+    </div>
+    <div class="flex justify-center items-center flex-1">
+        <form class="max-w-screen-sm mx-auto pl-8 text-gray-600" [formGroup]="formGroup" (ngSubmit)="onSubmit()">
+            <h1 class="text-2xl mb-4 font-bold">Looks like you're new here!</h1>
+            <h3 class="text-xl mb-4 font-semibold">
+                Sign up with your mobile number to get started
+            </h3>
+
+            <div class="flex items-center justify-between mb-4">
+                <label class="mr-4 font-semibold">Enter Email /Mobile Number</label>
+                <input type="text" pInputText formControlName="mobile" />
             </div>
 
-            <div class="flex items-center justify-between mb-4" >
-                <label class="mr-4 font-semibold">Enter OTP</label>
-                <input type="text" pInputText formControlName="otp" />
-            </div>
-        </div>
+            <div class="" *ngIf="otpSent">
+                <div class="flex justify-between mb-4">
+                    <label class="font-semibold">OTP sent to Mobile</label>
+                    <a (click)="resendOtp()" class="text-blue-500">Resend?</a>
+                </div>
 
-        <div class="flex mb-4">
-            <p-checkbox formControlName="checked" [binary]="true" inputId="binary"></p-checkbox>
-            <a class="text-blue-500 ml-2">By continuing, you agree to 99yearDeals.com's Terms of Use and Privacy Policy.</a>
-        </div>
-    
-        <div class="flex justify-between">
-            <p-button label="Continue" *ngIf="!otpSent" (click)="otpSent=true"></p-button>
-            <p-button label="Signup" *ngIf="otpSent" type="submit"></p-button>
-        </div>
-    </form>
+                <div class="flex items-center justify-between mb-4">
+                    <label class="mr-4 font-semibold">Enter OTP</label>
+                    <input type="text" pInputText formControlName="otp" />
+                </div>
+            </div>
+
+            <div class="flex mb-8 text-sm">
+                <p-checkbox formControlName="checked" [binary]="true" inputId="binary"></p-checkbox>
+                <a class="text-blue-500 ml-2">By continuing, you agree to 99yearDeals.com's Terms of Use and
+                    Privacy Policy.</a>
+            </div>
+
+            <div class="flex justify-between text-sm">
+                <p-button label="Continue" styleClass="p-button-sm p-button-warning" *ngIf="!otpSent"
+                    (click)="otpSent = true"></p-button>
+                <p-button label="Signup" styleClass="p-button-sm p-button-warning" *ngIf="otpSent" type="submit"></p-button>
+            </div>
+        </form>
+    </div>
 </div>

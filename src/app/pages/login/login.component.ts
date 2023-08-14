@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewEncapsulation } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ButtonModule } from 'primeng/button';
 import { InputTextModule } from 'primeng/inputtext';
@@ -25,11 +25,12 @@ import { Router, RouterLink } from '@angular/router';
     CheckboxModule,
   ],
   templateUrl: './login.component.html',
+  encapsulation: ViewEncapsulation.None,
 })
 export class LoginComponent {
   public formGroup!: FormGroup;
 
-  constructor(private fb: FormBuilder, private router:Router) {
+  constructor(private fb: FormBuilder, private router: Router) {
     this.formGroup = this.fb.group({
       mobile: ['', Validators.required],
       checked: [false, Validators.required],

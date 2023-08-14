@@ -9,14 +9,14 @@ import { PromoInfoComponent } from './pages/promo-info/promo-info.component';
 import { DealsDiscountComponent } from './pages/deals-discount/deals-discount.component';
 
 export const routes: Routes = [
-  { path: '', redirectTo: 'deals', pathMatch: 'full' },
+  { path: '', redirectTo: 'login', pathMatch: 'full' },
   { path: 'login', component: LoginComponent },
   { path: 'register', component: RegisterComponent },
   { path: 'deals', component: DealsComponent },
   { path: 'subscription', component: SubscriptionComponent },
   { path: 'promo-videos', component: PromoVideosComponent },
   { path: 'promo-info', component: PromoInfoComponent },
-  {path:'deals-discount', component: DealsDiscountComponent},
+  { path: 'deals-discount', component: DealsDiscountComponent },
   { path: '**', component: DealsComponent },
 ];
 

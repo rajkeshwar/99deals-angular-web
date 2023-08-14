@@ -1,0 +1,22 @@
+<div class="bg-blue-600 h-14 flex items-center text-white">
+  <div class="w-full max-w-screen-2xl mx-auto flex items-center justify-between">
+    <span class="flex flex-col">
+      <h3 class="text-3xl text-white font-semibold italic">99 Deals</h3>
+      <span class="text-xs text-white -mt-1">on <b class="text-yellow-400">Restaurants</b></span>
+    </span>
+
+    <div class="flex items-center">
+      <span class="p-input-icon-left">
+          <i class="pi pi-search"></i>
+          <input type="text" pInputText class="py-1 w-96" [(ngModel)]="searchText" />
+      </span>
+      <p-button label="Search" styleClass="p-button-warning ml-4 py-1"></p-button>
+
+      <span class="ml-4 font-semibold relative">
+        <p-badge value="4" styleClass="absolute -top-4 left-0" severity="danger"></p-badge>
+        <i class="pi pi-cart-plus"></i>
+        <span class="ml-1">Cart</span> 
+      </span>
+    </div>
+  </div>
+</div>

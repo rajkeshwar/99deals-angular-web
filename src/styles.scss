@@ -1,4 +1,43 @@
+
 /* You can add global styles to this file, and also import other style files */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
+html {
+    --bg-color: #f8f9fa;
+    --blue-color: #2196f3;
+    --border-gray: #dee2e6;
+    --white: #fff;
+    --caret-color: #fff;
+    --azuga-blue: #0069b1;
+    --caret-clr: #3b82f6;
+    --bg-blue: #2874f0;
+  }
+  
+  @font-face {
+    font-family: elmirta-font;
+    src: url(assets/Elmirta-z8omG.ttf);
+  }
+  
+  .font-elmirta {
+    font-family: elmirta-font;
+  }
+  
+  body {
+    font-size: 16px;
+    background: var(--surface-c);
+  }
+  
+  body *:enabled:focus,
+  .p-focus {
+    box-shadow: none !important;
+  }
+  
+  [hidden] {
+    display: none !important;
+  }
+
+
+  .polygon {
+    -webkit-clip-path: polygon(0 0, 67% 0, 40% 100%, 0% 100%);
+    clip-path: polygon(0 0, 67% 0, 40% 100%, 0% 100%);
+    background: linear-gradient(145deg,#e5cc0d 0%,#d3212a 100%);
+  }
