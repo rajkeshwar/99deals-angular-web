@@ -27,8 +27,6 @@ run `npm install json-server -g`
 
 ### Visit: https://jsonplaceholder.typicode.com/
 
-### Wireframe
-https://projects.invisionapp.com/share/A8132Y0QKJZD#/screens/471032746
 
 
 
