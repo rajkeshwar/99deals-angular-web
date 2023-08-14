@@ -1,28 +1,34 @@
-# 99dealsAngularWeb
+# 99Deals Angular Web
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+![Alt text](docs/99deals-angular-web-1.png?raw=true "Title")
 
-## Development server
+![Alt text](docs/99deals-angular-web-2.png?raw=true "Title")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Alt text](docs/99deals-angular-web-3.png?raw=true "Title")
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Prerequisites;
+Node should be installed
+run `npm install json-server -g`
+### Steps to start the application
+1. git clone https://gitlab.azuga.com/phone-monitor/99deals-angular-web.git
+2. cd 99deals-angular-web and `npm install`
+3. Open the app in VS code or in your favorite editor
+4. npm run start and open http://localhost:4200
+5. Open another tab and run `npm run json-server`
+6. It will start json-server for mock-api on port 3000
+5. That's it
 
-## Build
+### Note: You can access endpoints 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- http://localhost:3000/categories
+- http://localhost:3000/products
+- http://localhost:3000/banners
 
-## Running unit tests
+### Visit: https://jsonplaceholder.typicode.com/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Wireframe
+https://projects.invisionapp.com/share/A8132Y0QKJZD#/screens/471032746
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# 99deals-angular-web

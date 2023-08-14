@@ -1,0 +1,1699 @@
+{
+  "categories": [
+    {
+      "label": "Games",
+      "id": "0",
+      "items": [
+        [
+          {
+            "label": "Grocery",
+            "id": "00",
+            "items": [
+              {
+                "id": "000",
+                "label": "Sports"
+              },
+              {
+                "id": "000",
+                "label": "Computers"
+              }
+            ]
+          },
+          {
+            "label": "Outdoors",
+            "id": "00",
+            "items": [
+              {
+                "id": "001",
+                "label": "Grocery"
+              },
+              {
+                "id": "001",
+                "label": "Kids"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Industrial",
+            "id": "01",
+            "items": [
+              {
+                "id": "010",
+                "label": "Kids"
+              },
+              {
+                "id": "010",
+                "label": "Clothing"
+              }
+            ]
+          },
+          {
+            "label": "Outdoors",
+            "id": "01",
+            "items": [
+              {
+                "id": "011",
+                "label": "Kids"
+              },
+              {
+                "id": "011",
+                "label": "Garden"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Electronics",
+            "id": "02",
+            "items": [
+              {
+                "id": "020",
+                "label": "Industrial"
+              },
+              {
+                "id": "020",
+                "label": "Games"
+              }
+            ]
+          },
+          {
+            "label": "Beauty",
+            "id": "02",
+            "items": [
+              {
+                "id": "021",
+                "label": "Beauty"
+              },
+              {
+                "id": "021",
+                "label": "Music"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Garden",
+            "id": "03",
+            "items": [
+              {
+                "id": "030",
+                "label": "Computers"
+              },
+              {
+                "id": "030",
+                "label": "Tools"
+              }
+            ]
+          },
+          {
+            "label": "Movies",
+            "id": "03",
+            "items": [
+              {
+                "id": "031",
+                "label": "Home"
+              },
+              {
+                "id": "031",
+                "label": "Health"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Books",
+      "id": "1",
+      "items": [
+        [
+          {
+            "label": "Home",
+            "id": "10",
+            "items": [
+              {
+                "id": "100",
+                "label": "Grocery"
+              },
+              {
+                "id": "100",
+                "label": "Grocery"
+              }
+            ]
+          },
+          {
+            "label": "Movies",
+            "id": "10",
+            "items": [
+              {
+                "id": "101",
+                "label": "Clothing"
+              },
+              {
+                "id": "101",
+                "label": "Electronics"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Baby",
+            "id": "11",
+            "items": [
+              {
+                "id": "110",
+                "label": "Games"
+              },
+              {
+                "id": "110",
+                "label": "Industrial"
+              }
+            ]
+          },
+          {
+            "label": "Health",
+            "id": "11",
+            "items": [
+              {
+                "id": "111",
+                "label": "Jewelery"
+              },
+              {
+                "id": "111",
+                "label": "Industrial"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Tools",
+            "id": "12",
+            "items": [
+              {
+                "id": "120",
+                "label": "Movies"
+              },
+              {
+                "id": "120",
+                "label": "Jewelery"
+              }
+            ]
+          },
+          {
+            "label": "Outdoors",
+            "id": "12",
+            "items": [
+              {
+                "id": "121",
+                "label": "Movies"
+              },
+              {
+                "id": "121",
+                "label": "Kids"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Automotive",
+            "id": "13",
+            "items": [
+              {
+                "id": "130",
+                "label": "Jewelery"
+              },
+              {
+                "id": "130",
+                "label": "Music"
+              }
+            ]
+          },
+          {
+            "label": "Outdoors",
+            "id": "13",
+            "items": [
+              {
+                "id": "131",
+                "label": "Computers"
+              },
+              {
+                "id": "131",
+                "label": "Kids"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Computers",
+      "id": "2",
+      "items": [
+        [
+          {
+            "label": "Health",
+            "id": "20",
+            "items": [
+              {
+                "id": "200",
+                "label": "Beauty"
+              },
+              {
+                "id": "200",
+                "label": "Clothing"
+              }
+            ]
+          },
+          {
+            "label": "Books",
+            "id": "20",
+            "items": [
+              {
+                "id": "201",
+                "label": "Industrial"
+              },
+              {
+                "id": "201",
+                "label": "Electronics"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Jewelery",
+            "id": "21",
+            "items": [
+              {
+                "id": "210",
+                "label": "Sports"
+              },
+              {
+                "id": "210",
+                "label": "Tools"
+              }
+            ]
+          },
+          {
+            "label": "Shoes",
+            "id": "21",
+            "items": [
+              {
+                "id": "211",
+                "label": "Electronics"
+              },
+              {
+                "id": "211",
+                "label": "Sports"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Outdoors",
+            "id": "22",
+            "items": [
+              {
+                "id": "220",
+                "label": "Music"
+              },
+              {
+                "id": "220",
+                "label": "Music"
+              }
+            ]
+          },
+          {
+            "label": "Home",
+            "id": "22",
+            "items": [
+              {
+                "id": "221",
+                "label": "Kids"
+              },
+              {
+                "id": "221",
+                "label": "Jewelery"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Outdoors",
+            "id": "23",
+            "items": [
+              {
+                "id": "230",
+                "label": "Health"
+              },
+              {
+                "id": "230",
+                "label": "Garden"
+              }
+            ]
+          },
+          {
+            "label": "Health",
+            "id": "23",
+            "items": [
+              {
+                "id": "231",
+                "label": "Sports"
+              },
+              {
+                "id": "231",
+                "label": "Jewelery"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Music",
+      "id": "3",
+      "items": [
+        [
+          {
+            "label": "Automotive",
+            "id": "30",
+            "items": [
+              {
+                "id": "300",
+                "label": "Grocery"
+              },
+              {
+                "id": "300",
+                "label": "Electronics"
+              }
+            ]
+          },
+          {
+            "label": "Electronics",
+            "id": "30",
+            "items": [
+              {
+                "id": "301",
+                "label": "Music"
+              },
+              {
+                "id": "301",
+                "label": "Shoes"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Baby",
+            "id": "31",
+            "items": [
+              {
+                "id": "310",
+                "label": "Toys"
+              },
+              {
+                "id": "310",
+                "label": "Automotive"
+              }
+            ]
+          },
+          {
+            "label": "Beauty",
+            "id": "31",
+            "items": [
+              {
+                "id": "311",
+                "label": "Books"
+              },
+              {
+                "id": "311",
+                "label": "Computers"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Grocery",
+            "id": "32",
+            "items": [
+              {
+                "id": "320",
+                "label": "Books"
+              },
+              {
+                "id": "320",
+                "label": "Jewelery"
+              }
+            ]
+          },
+          {
+            "label": "Automotive",
+            "id": "32",
+            "items": [
+              {
+                "id": "321",
+                "label": "Grocery"
+              },
+              {
+                "id": "321",
+                "label": "Grocery"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Industrial",
+            "id": "33",
+            "items": [
+              {
+                "id": "330",
+                "label": "Beauty"
+              },
+              {
+                "id": "330",
+                "label": "Jewelery"
+              }
+            ]
+          },
+          {
+            "label": "Games",
+            "id": "33",
+            "items": [
+              {
+                "id": "331",
+                "label": "Toys"
+              },
+              {
+                "id": "331",
+                "label": "Electronics"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Sports",
+      "id": "4",
+      "items": [
+        [
+          {
+            "label": "Kids",
+            "id": "40",
+            "items": [
+              {
+                "id": "400",
+                "label": "Grocery"
+              },
+              {
+                "id": "400",
+                "label": "Toys"
+              }
+            ]
+          },
+          {
+            "label": "Home",
+            "id": "40",
+            "items": [
+              {
+                "id": "401",
+                "label": "Electronics"
+              },
+              {
+                "id": "401",
+                "label": "Kids"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Kids",
+            "id": "41",
+            "items": [
+              {
+                "id": "410",
+                "label": "Baby"
+              },
+              {
+                "id": "410",
+                "label": "Outdoors"
+              }
+            ]
+          },
+          {
+            "label": "Music",
+            "id": "41",
+            "items": [
+              {
+                "id": "411",
+                "label": "Games"
+              },
+              {
+                "id": "411",
+                "label": "Kids"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Tools",
+            "id": "42",
+            "items": [
+              {
+                "id": "420",
+                "label": "Sports"
+              },
+              {
+                "id": "420",
+                "label": "Sports"
+              }
+            ]
+          },
+          {
+            "label": "Beauty",
+            "id": "42",
+            "items": [
+              {
+                "id": "421",
+                "label": "Books"
+              },
+              {
+                "id": "421",
+                "label": "Beauty"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Music",
+            "id": "43",
+            "items": [
+              {
+                "id": "430",
+                "label": "Computers"
+              },
+              {
+                "id": "430",
+                "label": "Garden"
+              }
+            ]
+          },
+          {
+            "label": "Clothing",
+            "id": "43",
+            "items": [
+              {
+                "id": "431",
+                "label": "Industrial"
+              },
+              {
+                "id": "431",
+                "label": "Jewelery"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Movies",
+      "id": "5",
+      "items": [
+        [
+          {
+            "label": "Garden",
+            "id": "50",
+            "items": [
+              {
+                "id": "500",
+                "label": "Garden"
+              },
+              {
+                "id": "500",
+                "label": "Automotive"
+              }
+            ]
+          },
+          {
+            "label": "Garden",
+            "id": "50",
+            "items": [
+              {
+                "id": "501",
+                "label": "Movies"
+              },
+              {
+                "id": "501",
+                "label": "Books"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Tools",
+            "id": "51",
+            "items": [
+              {
+                "id": "510",
+                "label": "Kids"
+              },
+              {
+                "id": "510",
+                "label": "Health"
+              }
+            ]
+          },
+          {
+            "label": "Outdoors",
+            "id": "51",
+            "items": [
+              {
+                "id": "511",
+                "label": "Electronics"
+              },
+              {
+                "id": "511",
+                "label": "Movies"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Baby",
+            "id": "52",
+            "items": [
+              {
+                "id": "520",
+                "label": "Music"
+              },
+              {
+                "id": "520",
+                "label": "Beauty"
+              }
+            ]
+          },
+          {
+            "label": "Automotive",
+            "id": "52",
+            "items": [
+              {
+                "id": "521",
+                "label": "Automotive"
+              },
+              {
+                "id": "521",
+                "label": "Jewelery"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Electronics",
+            "id": "53",
+            "items": [
+              {
+                "id": "530",
+                "label": "Music"
+              },
+              {
+                "id": "530",
+                "label": "Shoes"
+              }
+            ]
+          },
+          {
+            "label": "Jewelery",
+            "id": "53",
+            "items": [
+              {
+                "id": "531",
+                "label": "Automotive"
+              },
+              {
+                "id": "531",
+                "label": "Clothing"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Books",
+      "id": "6",
+      "items": [
+        [
+          {
+            "label": "Automotive",
+            "id": "60",
+            "items": [
+              {
+                "id": "600",
+                "label": "Baby"
+              },
+              {
+                "id": "600",
+                "label": "Grocery"
+              }
+            ]
+          },
+          {
+            "label": "Garden",
+            "id": "60",
+            "items": [
+              {
+                "id": "601",
+                "label": "Baby"
+              },
+              {
+                "id": "601",
+                "label": "Games"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Clothing",
+            "id": "61",
+            "items": [
+              {
+                "id": "610",
+                "label": "Movies"
+              },
+              {
+                "id": "610",
+                "label": "Computers"
+              }
+            ]
+          },
+          {
+            "label": "Health",
+            "id": "61",
+            "items": [
+              {
+                "id": "611",
+                "label": "Jewelery"
+              },
+              {
+                "id": "611",
+                "label": "Health"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Toys",
+            "id": "62",
+            "items": [
+              {
+                "id": "620",
+                "label": "Industrial"
+              },
+              {
+                "id": "620",
+                "label": "Kids"
+              }
+            ]
+          },
+          {
+            "label": "Tools",
+            "id": "62",
+            "items": [
+              {
+                "id": "621",
+                "label": "Games"
+              },
+              {
+                "id": "621",
+                "label": "Books"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Beauty",
+            "id": "63",
+            "items": [
+              {
+                "id": "630",
+                "label": "Music"
+              },
+              {
+                "id": "630",
+                "label": "Grocery"
+              }
+            ]
+          },
+          {
+            "label": "Books",
+            "id": "63",
+            "items": [
+              {
+                "id": "631",
+                "label": "Jewelery"
+              },
+              {
+                "id": "631",
+                "label": "Toys"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "label": "Books",
+      "id": "7",
+      "items": [
+        [
+          {
+            "label": "Health",
+            "id": "70",
+            "items": [
+              {
+                "id": "700",
+                "label": "Automotive"
+              },
+              {
+                "id": "700",
+                "label": "Automotive"
+              }
+            ]
+          },
+          {
+            "label": "Health",
+            "id": "70",
+            "items": [
+              {
+                "id": "701",
+                "label": "Baby"
+              },
+              {
+                "id": "701",
+                "label": "Outdoors"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Games",
+            "id": "71",
+            "items": [
+              {
+                "id": "710",
+                "label": "Jewelery"
+              },
+              {
+                "id": "710",
+                "label": "Music"
+              }
+            ]
+          },
+          {
+            "label": "Grocery",
+            "id": "71",
+            "items": [
+              {
+                "id": "711",
+                "label": "Clothing"
+              },
+              {
+                "id": "711",
+                "label": "Outdoors"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Clothing",
+            "id": "72",
+            "items": [
+              {
+                "id": "720",
+                "label": "Clothing"
+              },
+              {
+                "id": "720",
+                "label": "Tools"
+              }
+            ]
+          },
+          {
+            "label": "Health",
+            "id": "72",
+            "items": [
+              {
+                "id": "721",
+                "label": "Kids"
+              },
+              {
+                "id": "721",
+                "label": "Books"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Clothing",
+            "id": "73",
+            "items": [
+              {
+                "id": "730",
+                "label": "Books"
+              },
+              {
+                "id": "730",
+                "label": "Music"
+              }
+            ]
+          },
+          {
+            "label": "Beauty",
+            "id": "73",
+            "items": [
+              {
+                "id": "731",
+                "label": "Tools"
+              },
+              {
+                "id": "731",
+                "label": "Clothing"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "products": [
+    {
+      "url": "https://picsum.photos/seed/Syc2fZBc/640/480",
+      "name": "Fantastic Granite Gloves",
+      "material": "Fresh",
+      "price": "₹ 118"
+    },
+    {
+      "url": "https://picsum.photos/seed/CXvdPTi/640/480",
+      "product": "Bacon",
+      "name": "Handcrafted Metal Ball",
+      "material": "Fresh",
+      "price": "₹ 121"
+    },
+    {
+      "url": "https://picsum.photos/seed/HkXM1y0kv/640/480",
+      "product": "Pizza",
+      "name": "Ergonomic Frozen Chair",
+      "material": "Concrete",
+      "price": "₹ 134"
+    },
+    {
+      "url": "https://picsum.photos/seed/MZWF2E/640/480",
+      "name": "Elegant Frozen Shoes",
+      "material": "Wooden",
+      "price": "₹ 145"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=1503831714168832",
+      "product": "Pizza",
+      "name": "Electronic Concrete Salad",
+      "material": "Wooden",
+      "price": "₹ 161"
+    },
+    {
+      "url": "https://picsum.photos/seed/mu8UZDSn/640/480",
+      "name": "Elegant Metal Salad",
+      "material": "Steel",
+      "price": "₹ 126"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=7119703684153344",
+      "product": "Cheese",
+      "name": "Modern Concrete Soap",
+      "material": "Granite",
+      "price": "₹ 127"
+    },
+    {
+      "url": "https://picsum.photos/seed/MtWLPs/640/480",
+      "product": "Bacon",
+      "name": "Handmade Plastic Towels",
+      "material": "Plastic",
+      "price": "₹ 104"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3120023526703104",
+      "product": "Bacon",
+      "name": "Incredible Plastic Hat",
+      "material": "Wooden",
+      "price": "₹ 187"
+    },
+    {
+      "url": "https://picsum.photos/seed/391O7R/640/480",
+      "product": "Cheese",
+      "name": "Handcrafted Cotton Soap",
+      "material": "Soft",
+      "price": "₹ 180"
+    },
+    {
+      "url": "https://picsum.photos/seed/zrjrF4od/640/480",
+      "product": "Cheese",
+      "name": "Refined Concrete Shirt",
+      "material": "Rubber",
+      "price": "₹ 182"
+    },
+    {
+      "url": "https://picsum.photos/seed/zmzLu/640/480",
+      "product": "Pizza",
+      "name": "Handcrafted Metal Pizza",
+      "material": "Granite",
+      "price": "₹ 162"
+    },
+    {
+      "url": "https://picsum.photos/seed/GNuHGnS/640/480",
+      "name": "Recycled Rubber Car",
+      "material": "Fresh",
+      "price": "₹ 186"
+    },
+    {
+      "url": "https://picsum.photos/seed/jSfr5QiKQh/640/480",
+      "product": "Cheese",
+      "name": "Awesome Wooden Chair",
+      "material": "Rubber",
+      "price": "₹ 120"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=7429922356199424",
+      "name": "Refined Metal Shirt",
+      "material": "Bronze",
+      "price": "₹ 194"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=2926214868107264",
+      "product": "Bacon",
+      "name": "Bespoke Rubber Soap",
+      "material": "Frozen",
+      "price": "₹ 107"
+    },
+    {
+      "url": "https://picsum.photos/seed/N7Hh0s/640/480",
+      "product": "Bacon",
+      "name": "Licensed Frozen Chips",
+      "material": "Soft",
+      "price": "₹ 129"
+    },
+    {
+      "url": "https://picsum.photos/seed/398KwOKa3Q/640/480",
+      "product": "Bacon",
+      "name": "Handmade Plastic Fish",
+      "material": "Wooden",
+      "price": "₹ 163"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=7405452891521024",
+      "product": "Bacon",
+      "name": "Gorgeous Rubber Towels",
+      "material": "Frozen",
+      "price": "₹ 191"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=229789638066176",
+      "product": "Pizza",
+      "name": "Fantastic Concrete Chicken",
+      "material": "Bronze",
+      "price": "₹ 172"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=1725207192535040",
+      "name": "Oriental Granite Towels",
+      "material": "Concrete",
+      "price": "₹ 133"
+    },
+    {
+      "url": "https://picsum.photos/seed/m5dTz/640/480",
+      "product": "Cheese",
+      "name": "Electronic Frozen Table",
+      "material": "Frozen",
+      "price": "₹ 130"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=5412170724540416",
+      "product": "Bacon",
+      "name": "Fantastic Steel Mouse",
+      "material": "Steel",
+      "price": "₹ 186"
+    },
+    {
+      "url": "https://picsum.photos/seed/WfnTYdBY/640/480",
+      "product": "Bacon",
+      "name": "Awesome Plastic Bike",
+      "material": "Steel",
+      "price": "₹ 164"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4580473021923328",
+      "name": "Small Steel Cheese",
+      "material": "Concrete",
+      "price": "₹ 136"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3671705272713216",
+      "product": "Cheese",
+      "name": "Ergonomic Wooden Computer",
+      "material": "Metal",
+      "price": "₹ 180"
+    },
+    {
+      "url": "https://picsum.photos/seed/MFNFshGm/640/480",
+      "product": "Cheese",
+      "name": "Luxurious Fresh Hat",
+      "material": "Granite",
+      "price": "₹ 121"
+    },
+    {
+      "url": "https://picsum.photos/seed/oSunLA0BWH/640/480",
+      "name": "Fantastic Frozen Ball",
+      "material": "Frozen",
+      "price": "₹ 162"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3035172075208704",
+      "name": "Recycled Plastic Mouse",
+      "material": "Soft",
+      "price": "₹ 125"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=1345717893332992",
+      "name": "Incredible Fresh Bike",
+      "material": "Fresh",
+      "price": "₹ 161"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3995628587712512",
+      "name": "Gorgeous Cotton Table",
+      "material": "Wooden",
+      "price": "₹ 109"
+    },
+    {
+      "url": "https://picsum.photos/seed/laQSIBSX/640/480",
+      "product": "Pizza",
+      "name": "Handmade Wooden Gloves",
+      "material": "Soft",
+      "price": "₹ 140"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=6522678764634112",
+      "name": "Incredible Cotton Gloves",
+      "material": "Rubber",
+      "price": "₹ 112"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3928036586029056",
+      "product": "Pizza",
+      "name": "Handmade Fresh Hat",
+      "material": "Fresh",
+      "price": "₹ 108"
+    },
+    {
+      "url": "https://picsum.photos/seed/XEbbmdo/640/480",
+      "name": "Tasty Concrete Towels",
+      "material": "Plastic",
+      "price": "₹ 118"
+    },
+    {
+      "url": "https://picsum.photos/seed/dupRt/640/480",
+      "name": "Gorgeous Granite Towels",
+      "material": "Metal",
+      "price": "₹ 114"
+    },
+    {
+      "url": "https://picsum.photos/seed/54mTFbn/640/480",
+      "product": "Bacon",
+      "name": "Intelligent Frozen Car",
+      "material": "Soft",
+      "price": "₹ 175"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=8426721768374272",
+      "product": "Bacon",
+      "name": "Elegant Soft Fish",
+      "material": "Soft",
+      "price": "₹ 188"
+    },
+    {
+      "url": "https://picsum.photos/seed/uxLUWte0/640/480",
+      "product": "Cheese",
+      "name": "Small Steel Computer",
+      "material": "Fresh",
+      "price": "₹ 117"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4764409261981696",
+      "product": "Cheese",
+      "name": "Rustic Wooden Chips",
+      "material": "Steel",
+      "price": "₹ 109"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=2515071074828288",
+      "product": "Pizza",
+      "name": "Handmade Metal Keyboard",
+      "material": "Rubber",
+      "price": "₹ 104"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4470619961819136",
+      "name": "Rustic Concrete Soap",
+      "material": "Metal",
+      "price": "₹ 122"
+    },
+    {
+      "url": "https://picsum.photos/seed/8qcBEmIaU/640/480",
+      "name": "Electronic Steel Pants",
+      "material": "Cotton",
+      "price": "₹ 195"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=1035849022046208",
+      "product": "Pizza",
+      "name": "Rustic Granite Salad",
+      "material": "Metal",
+      "price": "₹ 194"
+    },
+    {
+      "url": "https://picsum.photos/seed/Rk7qDAJf/640/480",
+      "name": "Fantastic Cotton Salad",
+      "material": "Soft",
+      "price": "₹ 157"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=2606505400467456",
+      "product": "Bacon",
+      "name": "Practical Steel Bacon",
+      "material": "Frozen",
+      "price": "₹ 146"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=928083888570368",
+      "product": "Cheese",
+      "name": "Unbranded Wooden Pants",
+      "material": "Frozen",
+      "price": "₹ 164"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=819044491984896",
+      "product": "Bacon",
+      "name": "Elegant Steel Chair",
+      "material": "Plastic",
+      "price": "₹ 124"
+    },
+    {
+      "url": "https://picsum.photos/seed/3vNQY/640/480",
+      "name": "Sleek Fresh Car",
+      "material": "Rubber",
+      "price": "₹ 200"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4537863322468352",
+      "product": "Pizza",
+      "name": "Tasty Rubber Cheese",
+      "material": "Cotton",
+      "price": "₹ 173"
+    },
+    {
+      "url": "https://picsum.photos/seed/BbOvQITPn/640/480",
+      "product": "Pizza",
+      "name": "Fantastic Granite Bike",
+      "material": "Soft",
+      "price": "₹ 191"
+    },
+    {
+      "url": "https://picsum.photos/seed/ldvYvGnwZ/640/480",
+      "name": "Handcrafted Bronze Pants",
+      "material": "Cotton",
+      "price": "₹ 119"
+    },
+    {
+      "url": "https://picsum.photos/seed/Fi8tV2aSRT/640/480",
+      "product": "Bacon",
+      "name": "Recycled Frozen Fish",
+      "material": "Cotton",
+      "price": "₹ 142"
+    },
+    {
+      "url": "https://picsum.photos/seed/XvUEvAX/640/480",
+      "product": "Cheese",
+      "name": "Handcrafted Granite Towels",
+      "material": "Fresh",
+      "price": "₹ 154"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=2628297630416896",
+      "product": "Bacon",
+      "name": "Handmade Bronze Hat",
+      "material": "Fresh",
+      "price": "₹ 164"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3044660847050752",
+      "name": "Intelligent Cotton Salad",
+      "material": "Concrete",
+      "price": "₹ 190"
+    },
+    {
+      "url": "https://picsum.photos/seed/3TfaayocV/640/480",
+      "product": "Pizza",
+      "name": "Sleek Fresh Fish",
+      "material": "Rubber",
+      "price": "₹ 136"
+    },
+    {
+      "url": "https://picsum.photos/seed/VFSM48/640/480",
+      "product": "Bacon",
+      "name": "Oriental Fresh Table",
+      "material": "Plastic",
+      "price": "₹ 142"
+    },
+    {
+      "url": "https://picsum.photos/seed/GqLXwa/640/480",
+      "product": "Pizza",
+      "name": "Small Concrete Tuna",
+      "material": "Concrete",
+      "price": "₹ 114"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3274070875439104",
+      "product": "Bacon",
+      "name": "Practical Soft Bacon",
+      "material": "Soft",
+      "price": "₹ 190"
+    },
+    {
+      "url": "https://picsum.photos/seed/A7rkslA/640/480",
+      "product": "Bacon",
+      "name": "Awesome Steel Towels",
+      "material": "Concrete",
+      "price": "₹ 114"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=5422075466481664",
+      "product": "Bacon",
+      "name": "Awesome Bronze Tuna",
+      "material": "Granite",
+      "price": "₹ 147"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4657051076657152",
+      "product": "Cheese",
+      "name": "Incredible Metal Computer",
+      "material": "Steel",
+      "price": "₹ 147"
+    },
+    {
+      "url": "https://picsum.photos/seed/YaEOp/640/480",
+      "product": "Pizza",
+      "name": "Luxurious Rubber Chicken",
+      "material": "Granite",
+      "price": "₹ 148"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=526465892352000",
+      "product": "Pizza",
+      "name": "Bespoke Steel Bike",
+      "material": "Bronze",
+      "price": "₹ 137"
+    },
+    {
+      "url": "https://picsum.photos/seed/M8Ukss/640/480",
+      "product": "Pizza",
+      "name": "Handmade Concrete Computer",
+      "material": "Plastic",
+      "price": "₹ 104"
+    },
+    {
+      "url": "https://picsum.photos/seed/WP3pC/640/480",
+      "name": "Tasty Granite Bacon",
+      "material": "Cotton",
+      "price": "₹ 200"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3189219749003264",
+      "product": "Cheese",
+      "name": "Practical Bronze Pants",
+      "material": "Rubber",
+      "price": "₹ 122"
+    },
+    {
+      "url": "https://picsum.photos/seed/juiSfTR/640/480",
+      "product": "Pizza",
+      "name": "Unbranded Steel Gloves",
+      "material": "Frozen",
+      "price": "₹ 132"
+    },
+    {
+      "url": "https://picsum.photos/seed/LMAGg/640/480",
+      "name": "Recycled Soft Chicken",
+      "material": "Frozen",
+      "price": "₹ 179"
+    },
+    {
+      "url": "https://picsum.photos/seed/2yEJ7NbWc/640/480",
+      "product": "Bacon",
+      "name": "Recycled Concrete Chips",
+      "material": "Steel",
+      "price": "₹ 137"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4840506607534080",
+      "product": "Bacon",
+      "name": "Unbranded Concrete Sausages",
+      "material": "Fresh",
+      "price": "₹ 172"
+    },
+    {
+      "url": "https://picsum.photos/seed/zs8vaU4a/640/480",
+      "product": "Bacon",
+      "name": "Practical Fresh Pants",
+      "material": "Steel",
+      "price": "₹ 168"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=6869091849601024",
+      "product": "Cheese",
+      "name": "Gorgeous Bronze Fish",
+      "material": "Granite",
+      "price": "₹ 139"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=8796299044323328",
+      "product": "Pizza",
+      "name": "Bespoke Granite Towels",
+      "material": "Frozen",
+      "price": "₹ 137"
+    },
+    {
+      "url": "https://picsum.photos/seed/bNYo5P9Ifw/640/480",
+      "product": "Pizza",
+      "name": "Ergonomic Steel Chair",
+      "material": "Rubber",
+      "price": "₹ 182"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3230190515781632",
+      "product": "Pizza",
+      "name": "Rustic Plastic Tuna",
+      "material": "Steel",
+      "price": "₹ 139"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4611222259367936",
+      "name": "Handcrafted Plastic Shoes",
+      "material": "Wooden",
+      "price": "₹ 107"
+    },
+    {
+      "url": "https://picsum.photos/seed/4NNliH6dh/640/480",
+      "product": "Pizza",
+      "name": "Modern Plastic Shoes",
+      "material": "Bronze",
+      "price": "₹ 199"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=7568846445608960",
+      "name": "Awesome Plastic Pizza",
+      "material": "Granite",
+      "price": "₹ 167"
+    },
+    {
+      "url": "https://picsum.photos/seed/L8FGc/640/480",
+      "product": "Bacon",
+      "name": "Practical Metal Salad",
+      "material": "Wooden",
+      "price": "₹ 195"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=4965931279187968",
+      "product": "Bacon",
+      "name": "Fantastic Frozen Ball",
+      "material": "Bronze",
+      "price": "₹ 168"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=496500090077184",
+      "product": "Bacon",
+      "name": "Unbranded Metal Keyboard",
+      "material": "Wooden",
+      "price": "₹ 118"
+    },
+    {
+      "url": "https://picsum.photos/seed/qHf2GlwC/640/480",
+      "product": "Bacon",
+      "name": "Licensed Metal Keyboard",
+      "material": "Wooden",
+      "price": "₹ 109"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=8579526059622400",
+      "name": "Incredible Cotton Fish",
+      "material": "Frozen",
+      "price": "₹ 167"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=2259633322328064",
+      "product": "Cheese",
+      "name": "Refined Soft Pants",
+      "material": "Steel",
+      "price": "₹ 144"
+    },
+    {
+      "url": "https://picsum.photos/seed/Ga4PEiJ5Dq/640/480",
+      "product": "Pizza",
+      "name": "Licensed Wooden Car",
+      "material": "Steel",
+      "price": "₹ 137"
+    },
+    {
+      "url": "https://picsum.photos/seed/KeE5ky1/640/480",
+      "product": "Pizza",
+      "name": "Gorgeous Bronze Pants",
+      "material": "Frozen",
+      "price": "₹ 126"
+    },
+    {
+      "url": "https://picsum.photos/seed/Mc4xCFJB/640/480",
+      "name": "Luxurious Wooden Gloves",
+      "material": "Wooden",
+      "price": "₹ 109"
+    },
+    {
+      "url": "https://picsum.photos/seed/CWFc1HL/640/480",
+      "name": "Generic Granite Shoes",
+      "material": "Soft",
+      "price": "₹ 137"
+    },
+    {
+      "url": "https://picsum.photos/seed/uCNUA/640/480",
+      "name": "Incredible Wooden Chicken",
+      "material": "Concrete",
+      "price": "₹ 192"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3320992124370944",
+      "product": "Bacon",
+      "name": "Bespoke Frozen Hat",
+      "material": "Frozen",
+      "price": "₹ 117"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3297811558825984",
+      "product": "Pizza",
+      "name": "Bespoke Soft Ball",
+      "material": "Cotton",
+      "price": "₹ 174"
+    },
+    {
+      "url": "https://picsum.photos/seed/1jR5M/640/480",
+      "product": "Bacon",
+      "name": "Handmade Concrete Pants",
+      "material": "Concrete",
+      "price": "₹ 148"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=3968822023290880",
+      "name": "Incredible Wooden Bike",
+      "material": "Fresh",
+      "price": "₹ 117"
+    },
+    {
+      "url": "https://picsum.photos/seed/1WrHpz/640/480",
+      "product": "Bacon",
+      "name": "Tasty Rubber Pizza",
+      "material": "Wooden",
+      "price": "₹ 136"
+    },
+    {
+      "url": "https://picsum.photos/seed/ze1Wtp1/640/480",
+      "product": "Pizza",
+      "name": "Modern Cotton Keyboard",
+      "material": "Plastic",
+      "price": "₹ 118"
+    },
+    {
+      "url": "https://loremflickr.com/640/480?lock=8701663980290048",
+      "name": "Ergonomic Rubber Shoes",
+      "material": "Fresh",
+      "price": "₹ 145"
+    },
+    {
+      "url": "https://picsum.photos/seed/xffo3H/640/480",
+      "product": "Cheese",
+      "name": "Practical Steel Cheese",
+      "material": "Fresh",
+      "price": "₹ 141"
+    }
+  ],
+  "banners": [
+    {
+      "url": "https://rukminim2.flixcart.com/fk-p-flap/3376/560/image/84ae27f93c14a4e3.jpg?q=50",
+      "name": "Electronic Metal Mouse"
+    },
+    {
+      "url": "https://rukminim2.flixcart.com/fk-p-flap/3376/560/image/e65b064fc53f59c2.jpg?q=50",
+      "name": "Modern Concrete Gloves"
+    },
+    {
+      "url": "https://rukminim2.flixcart.com/fk-p-flap/3376/560/image/3959ad9f670aeeeb.jpg?q=50",
+      "name": "Modern Plastic Keyboard"
+    },
+    {
+      "url": "https://rukminim2.flixcart.com/fk-p-flap/3376/560/image/d417c02a9cc69fda.jpg?q=50",
+      "name": "Handcrafted Wooden Ball"
+    },
+    {
+      "url": "https://rukminim2.flixcart.com/fk-p-flap/3376/560/image/84ae27f93c14a4e3.jpg?q=50",
+      "name": "Generic Soft Computer"
+    }
+  ]
+}

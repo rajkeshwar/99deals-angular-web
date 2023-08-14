@@ -6,28 +6,17 @@ import { CommonModule } from '@angular/common';
 import { ImageModule } from 'primeng/image';
 import { FormsModule } from '@angular/forms';
 
-
 @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.scss'],
-    standalone: true,
-    imports: [
-      ButtonModule,
-      CommonModule,
-      RouterModule,
-      ImageModule,
-      FormsModule 
-
-    ]
-   
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  standalone: true,
+  imports: [ButtonModule, CommonModule, RouterModule, ImageModule, FormsModule],
 })
 export class AppComponent {
   title = '99deals-angular-web';
-  
 
-  routeLinks = ['login', 'register', 'deals','deals-discount'];
-  
+  routeLinks = ['login', 'register', 'deals', 'deals-discount'];
+
   // images = [
   //   {
   //     imageSrc:
@@ -50,5 +39,4 @@ export class AppComponent {
   //     imageAlt: 'person2',
   //   },
   // ]
-
 }
